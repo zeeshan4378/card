@@ -1,0 +1,28 @@
+.parent{
+    width: 50%;
+    text-align: left;
+    background-image: url(./Capture.PNG);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    font-size: 14px;
+    margin: 50px 50px 50px 400px;
+    border: solid black;
+    border-radius: 10px;
+    
+    margin: 80px;
+}
+
+.child h1{
+    margin:158px 0 10px 50px ;
+}
+.btn button {
+  background-color: rgb(194, 59, 11);
+  margin: 0px 0px 3px 50px;
+  padding: 8px;
+  border-radius: 5px;
+  color: white;
+}
+.child p{
+    margin:20px 70px 10px 50px;
+}
